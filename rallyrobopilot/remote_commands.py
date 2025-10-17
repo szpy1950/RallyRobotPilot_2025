@@ -12,7 +12,7 @@ Remote control protocol
 'set rotation a;' a is an angle in degreees
 'reset;'
 
-#   Data message
+#   Data_Analysis message
 'r' <-- car reset
 'd' <-- data frame coming
 """
